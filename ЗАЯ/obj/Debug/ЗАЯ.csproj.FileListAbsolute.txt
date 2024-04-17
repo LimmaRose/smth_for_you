@@ -1,0 +1,96 @@
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.csproj.AssemblyReference.cache
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\MainWindow.g.cs
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\App.g.cs
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ_MarkupCompile.cache
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ_MarkupCompile.lref
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\bin\Debug\ЗАЯ.exe.config
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\bin\Debug\ЗАЯ.exe
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\bin\Debug\ЗАЯ.pdb
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\MainWindow.baml
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.g.resources
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.Properties.Resources.resources
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.csproj.GenerateResource.cache
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.csproj.CoreCompileInputs.cache
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.exe
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.pdb
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddT.g.cs
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddT.baml
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddRecordWindow.g.cs
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddRecordWindow.baml
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\EditRecordWindow.g.cs
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\EditRecordWindow.baml
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\Regis.g.cs
+C:\Users\Makar\OneDrive\Рабочий стол\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\Regis.baml
+D:\hjtrn\ЗАЯ\ЗАЯ\bin\Debug\ЗАЯ.exe.config
+D:\hjtrn\ЗАЯ\ЗАЯ\bin\Debug\ЗАЯ.exe
+D:\hjtrn\ЗАЯ\ЗАЯ\bin\Debug\ЗАЯ.pdb
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.csproj.AssemblyReference.cache
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\MainWindow.g.cs
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddRecordWindow.g.cs
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddT.g.cs
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\EditRecordWindow.g.cs
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\Regis.g.cs
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\App.g.cs
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ_MarkupCompile.cache
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ_MarkupCompile.lref
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\MainWindow.baml
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddRecordWindow.baml
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddT.baml
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\EditRecordWindow.baml
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\Pages\Regis.baml
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.g.resources
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.Properties.Resources.resources
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.csproj.GenerateResource.cache
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.csproj.CoreCompileInputs.cache
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.exe
+D:\hjtrn\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.pdb
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddRecordWindow.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddT.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\Pages\EditRecordWindow.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\Pages\Regis.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\App.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\bin\Debug\ЗАЯ.exe.config
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\bin\Debug\ЗАЯ.exe
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\bin\Debug\ЗАЯ.pdb
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\App.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddRecordWindow.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\Pages\AddT.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\Pages\EditRecordWindow.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\Pages\Regis.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.g.resources
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.exe
+C:\Users\Анастасия\Desktop\Дем экзамен\ЗАЯ\ЗАЯ\obj\Debug\ЗАЯ.pdb
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\bin\Debug\ЗАЯ.exe.config
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\bin\Debug\ЗАЯ.exe
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\bin\Debug\ЗАЯ.pdb
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\ЗАЯ.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\ЗАЯ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\MainWindow.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\Pages\AddRecordWindow.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\Pages\AddT.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\Pages\EditRecordWindow.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\Pages\Regis.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\App.g.cs
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\ЗАЯ_MarkupCompile.cache
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\ЗАЯ_MarkupCompile.lref
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\App.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\MainWindow.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\Pages\AddRecordWindow.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\Pages\AddT.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\Pages\EditRecordWindow.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\Pages\Regis.baml
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\ЗАЯ.g.resources
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\ЗАЯ.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\ЗАЯ.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\ЗАЯ.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\ЗАЯ.exe
+C:\Users\Анастасия\Desktop\Дем экзамен\Дем\ЗАЯ\obj\Debug\ЗАЯ.pdb
